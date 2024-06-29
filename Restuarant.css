@@ -1,0 +1,77 @@
+.Logo{
+	margin-left: 580px;
+	width: 400px;
+}
+.div{
+
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  gap: 5px;
+  
+  padding: 5px;
+
+
+}
+.img{
+	width: 500px;
+	height: 400px;
+	margin: 2px;
+	
+}
+.icon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	column-gap: 200px;
+}
+#hello{
+	width: 400px;
+	height: 300px;
+	margin-right:20px;
+	cursor: pointer;
+}
+#bye{
+	width: 400px;
+	height: 300px;
+	margin-left: 50px;
+	
+}
+.box{
+	width: 1525px;
+	height: 400px;
+	background-color: #eceef0;
+	display: flex;
+	column-gap: 900px;
+}
+.data{
+	padding-left: 20px;
+	padding-top: 100px;
+}
+.box1{
+	width: 1525px;
+	height: 100px;
+	background-color: #3cdaa7;
+}
+.map{
+
+	padding-top: 90px;
+width: 300px;
+	height: 250px;
+	margin-right: 5px;
+	cursor: pointer;	
+}
+footer{
+	            background-color: #3cdaa7;
+            color: #fff;
+            display: flex;
+            padding: 10px;
+            
+            bottom: 0;
+            width: 100%;
+
+}
+.me{
+	margin-left: 1100px;
+	font-size: 25px;
+}
